@@ -6,12 +6,10 @@ E-Learn is a beautiful open-source education app for Android. It is built with D
 ## List of Contents
 
 1. [Demo](#demo)
-2. [Support](#support)
-3. [Dependencies](#dependencies)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contributors](#contributors)
+2. [Dependencies](#dependencies)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Demo
 
